@@ -1,6 +1,4 @@
-Here's the content in `.md` format:
 
-```md
 ### Major League Movie: Watch Online and Cast Overview
 ▶️WATCH👉 [https://t.co/zLlErJmCET](https://t.co/zLlErJmCET)
 
@@ -16,5 +14,3 @@ Here's the content in `.md` format:
 
 Would you like more reviews or additional details?  
 [https://playghar.com/major-league-movie-watch-online-and-cast-overview](https://playghar.com/major-league-movie-watch-online-and-cast-overview)
-```
-
